@@ -1,3 +1,7 @@
+* {
+  background-color:aquamarine;
+}
+
 .logo {
   width: 23%;
   padding: 1%;
@@ -87,4 +91,8 @@ body {
 
 img {
   width: 75%;
+}
+
+button {
+  background-color:white;
 }
